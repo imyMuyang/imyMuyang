@@ -3,8 +3,7 @@
 - 武装直升机
 - 高中生，新Ⅱ卷纯理战士ヾ(≧▽≦*)o
 - Node.JS / Vanilla Javascript 飞舞
-- 正在给因为 gocq 暴毙而暴毙的 Bot 框架陪牢大打复活赛(●'◡'●)
-- 真名叶菡茵，小小打油诗：青青叶尚匀，不植自成茵q(≧▽≦q)
+- 傻子（迫真）
 
 Looking forward to chats!
 <!--
